@@ -3,7 +3,7 @@
 import React from 'react'
 import {motion} from 'framer-motion'
 import { SparklesIcon } from '@heroicons/react/24/solid'
-import { slideInFromLeft, slideInFromTop } from '@/utils/motion'
+import { slideInFromTop } from '@/utils/motion'
 const SkillText = () => {
   return (
     <div className='w-full h-auto flex flex-col items-center justify-center'>

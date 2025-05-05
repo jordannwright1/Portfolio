@@ -1,8 +1,7 @@
 import React from 'react'
 import Image from 'next/image'
 import { Socials } from '@/constants/index'
-import { div } from 'framer-motion/client'
-import Link from 'next/link'
+
 
 const NavBar = () => {
   return (

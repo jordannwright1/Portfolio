@@ -1,5 +1,4 @@
-import { Frontend_skill, Backend_skill } from '@/constants'
-import { section } from 'framer-motion/client'
+import { Frontend_skill } from '@/constants'
 import React from 'react'
 import SkillDataProvider from '../sub/SkillDataProvider'
 
