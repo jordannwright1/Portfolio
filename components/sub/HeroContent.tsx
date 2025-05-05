@@ -29,7 +29,7 @@ const HeroContent = () => {
         id='about-me'
         >
           Welcome to
-          <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">Jordan's</span>
+          <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">Jordan&apos;s</span>
           Portfolio Site
         </motion.div>
 
@@ -37,7 +37,7 @@ const HeroContent = () => {
         variants={slideInFromLeft(0.8)}
         className='text-lg text-gray-400 my-5 max-w-[600px]'
         >
-          I'm a Full Stack Developer with experience in website and app development.  You can find my tech stack and my current project descriptions below!
+          I&apos;m a Full Stack Developer with a passion for building intuitive websites and applications that make a difference. Below, you will find my tech stack and descriptions of my current deployed projects. Feel free to explore my work and reach out if you&apos;d like to collaborate!
 
 
         </motion.p>
