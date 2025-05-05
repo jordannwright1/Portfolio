@@ -89,6 +89,12 @@ export const Socials = [
     src: "/camera.webp",
     href: 'https://react-movie-project-tau.vercel.app'
   },
+
+  {
+    name: "Git",
+    src: "/gitIcon.png",
+    href: 'https://github.com/jordannwright1'
+  },
   
   
 ];
@@ -145,6 +151,13 @@ export const Frontend_skill = [
   {
     skill_name: "Python",
     Image: "/python.png",
+    width: 80,
+    height: 80,
+  },
+
+  {
+    skill_name: "Git",
+    Image: "/gitIcon.png",
     width: 80,
     height: 80,
   },
