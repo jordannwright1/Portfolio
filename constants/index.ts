@@ -79,18 +79,6 @@ export const Socials = [
   },
 
   {
-    name: "AITrainer",
-    src: "/AITrainer.png",
-    href: 'https://ai-fitness-trainer-delta.vercel.app/'
-  },
-
-  {
-    name: "MovieApp",
-    src: "/camera.webp",
-    href: 'https://react-movie-project-tau.vercel.app'
-  },
-
-  {
     name: "Git",
     src: "/gitIcon.png",
     href: 'https://github.com/jordannwright1'
