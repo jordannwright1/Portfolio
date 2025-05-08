@@ -65,6 +65,8 @@ const NavBar = () => {
             <a href="#about-me" className='text-gray-200 hover:text-white' onClick={() => setIsMenuOpen(false)}>About me</a>
             <a href="#skills" className='text-gray-200 hover:text-white' onClick={() => setIsMenuOpen(false)}>Skills</a>
             <a href="#projects" className='text-gray-200 hover:text-white' onClick={() => setIsMenuOpen(false)}>Projects</a>
+            <a href="https://www.linkedin.com/in/jordan-wright-50731216a/" className='text-gray-200 hover:text-white' onClick={() => setIsMenuOpen(false)}>LinkedIn</a>
+            <a href="https://github.com/jordannwright1" className='text-gray-200 hover:text-white' onClick={() => setIsMenuOpen(false)}>GitHub</a>
           </div>
         </div>
 
