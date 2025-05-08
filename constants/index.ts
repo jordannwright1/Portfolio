@@ -144,6 +144,13 @@ export const Frontend_skill = [
   },
 
   {
+    skill_name: "Django",
+    Image: "/DjangoIcon.png",
+    width: 70,
+    height: 70,
+  },
+
+  {
     skill_name: "Git",
     Image: "/gitIcon.png",
     width: 80,
