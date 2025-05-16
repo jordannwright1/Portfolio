@@ -9,7 +9,7 @@ const Projects = () => {
         id: 1,
         src: '/AIFitnessTrainer.png',
         title: 'AIFitnessTrainer App',
-        description: 'AIFitnessTrainer is a fitness app powered by an AI Trainer model built using a Vapi.ai workflow. Users can simulate phone calls with the AI Trainer, which analyzes the conversation to generate personalized diet and workout plans. The app features secure sign-up/sign-in functionality, with a dedicated profile page for users to view and manage their plans. Technologies used: Vapi.ai Workflow and API, Gemini AI API, Next.js, Convex, Clerk Authentication, and ShadCN Library.',
+        description: 'AIFitnessTrainer is a fitness app powered by an AI Trainer model built using a Vapi.ai workflow. Users can simulate phone calls with the AI Trainer, which analyzes the conversation to generate personalized diet and workout plans. The app features secure sign-up/sign-in functionality, with a dedicated profile page for users to view and manage their plans. Technologies used: Vapi.ai Workflow and API, Gemini AI API, Next.js, Convex, Clerk Authentication, and ShadCN Library.  Guest Email: s26887809@gmail.com, Guest Password: AIFitnessTrainer',
         link: 'https://ai-fitness-trainer-delta.vercel.app'
       },
       {
