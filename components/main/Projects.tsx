@@ -23,7 +23,7 @@ const Projects = () => {
         id: 3,
         src: '/VStream.png',
         title: 'VStream',
-        description: 'VStream is a real-time communication platform featuring one-on-one and group video calls, chat functionality, reactions, and friend requests. Built using the MERN stack, the app leverages GetStream.io for seamless chat and video calling integration. Users can connect with friends, join groups, and send real-time reactions, while the friend request feature enhances social interactivity. The app ensures a secure and responsive user experience, incorporating authentication and dynamic updates. Technologies used: MongoDB, Express.js, React.js, Node.js, GetStream.io API, Stream Chat SDK, Tailwind CSS, and React Query. Guest Email: john@example.com, Guest Password: 123456',
+        description: 'VStream is a real-time communication platform featuring one-on-one and group video calls, chat functionality, reactions, and friend requests. Built using the MERN stack, the app leverages GetStream.io for seamless chat and video calling integration. Users can connect with friends, join groups, and send real-time reactions, while the friend request feature enhances social interactivity. The app ensures a secure and responsive user experience, incorporating authentication and dynamic updates. Technologies used: MongoDB, Express.js, React.js, Node.js, GetStream.io API, Stream Chat SDK, Tailwind CSS, and React Query. Guest Email: anne@example.com, Guest Password: 123456',
         link: 'https://vstream-hgsa.onrender.com'
       }
     ];
