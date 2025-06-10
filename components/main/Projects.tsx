@@ -31,7 +31,7 @@ const Projects = () => {
         src: '/chatbot.png',
         title: 'AI Chatbot',
         description: 'AIChatBot is a responsive chatbot application that facilitates real-time conversational interactions with users. Built using the ChatScope SDK, the app integrates an AI-powered model to provide dynamic and context-aware responses. The chatbot simulates human-like conversations, featuring a typing indicator and intuitive user interface for seamless interaction. The project emphasizes modern front-end technologies, ensuring an engaging and user-friendly experience. Technologies used: ChatScope SDK, React, Tailwind CSS.',
-        link: 'https://vstream-hgsa.onrender.com'
+        link: 'https://chatbot-alpha-seven-87.vercel.app/'
       }
     ];
 
