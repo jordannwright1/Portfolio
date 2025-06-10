@@ -25,6 +25,13 @@ const Projects = () => {
         title: 'VStream',
         description: 'VStream is a real-time communication platform featuring one-on-one and group video calls, chat functionality, reactions, and friend requests. Built using the MERN stack, the app leverages GetStream.io for seamless chat and video calling integration. Users can connect with friends, join groups, and send real-time reactions, while the friend request feature enhances social interactivity. The app ensures a secure and responsive user experience, incorporating authentication and dynamic updates. Technologies used: MongoDB, Express.js, React.js, Node.js, GetStream.io API, Stream Chat SDK, Tailwind CSS, and React Query. Guest Email: anne@example.com, Guest Password: 123456',
         link: 'https://vstream-hgsa.onrender.com'
+      },
+      {
+        id: 4,
+        src: '/chatbot.png',
+        title: 'AI Chatbot',
+        description: 'AIChatBot is a responsive chatbot application that facilitates real-time conversational interactions with users. Built using the ChatScope SDK, the app integrates an AI-powered model to provide dynamic and context-aware responses. The chatbot simulates human-like conversations, featuring a typing indicator and intuitive user interface for seamless interaction. The project emphasizes modern front-end technologies, ensuring an engaging and user-friendly experience. Technologies used: ChatScope SDK, React, Tailwind CSS.',
+        link: 'https://vstream-hgsa.onrender.com'
       }
     ];
 
